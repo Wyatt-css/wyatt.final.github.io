@@ -1,0 +1,82 @@
+a {
+    color:#36b4e3;
+    text-decoration:none ;
+}
+h3 {
+    color:#d9da93;
+    font-family: Verdana;
+}
+
+h2 {
+    color:#ddeeeb;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color:#d9da93;
+    background-color:#856e85;
+}
+
+li {
+    color:#d9da93;
+    list-style:none;
+    font-size:larger;
+    font-family: 'Franklin Gothic Medium';
+}
+body {
+    background-color:#534054;
+    text-align:center;
+}
+img {
+    border:6px double #d9da93;
+    height:15%;
+    width:7%;
+    margin:5px;
+}
+iframe {
+    border:6px ridge #d9da93;
+}
+iframe:hover {
+    width:1250px;
+    height:650px;
+}
+hr {
+    border-color:black;
+}
+.lighter{ 
+    background-color:#856e85;
+}
+.listed {
+    font-family: Verdana;
+    border:1px solid #d9da93;
+    padding:5px;
+    margin:5px;
+    display:inline-flex;
+    background-color: #f4f1ec;
+}
+.listed:hover {
+    border:4px groove #d9da93;
+    padding:7px;
+    margin:7px;
+}
+.h2 {
+    color:#ddeeeb;
+    background-color:#534054;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#Threads {
+    font-style: italic;
+}
+#contact {
+    border:2px inset #d9da93;
+    padding:4px;
+    margin:8px;
+    background-color:#856e85;
+}
+#size {
+    height:35%;
+    width:50%;
+}
+#NoBG{
+    background-color:#856e85;
+}
